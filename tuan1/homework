@@ -1,0 +1,6 @@
+Tuần 1: sử dụng chatbot AI xử lý với 10 thuật toán trên dữ liệu lớn
+vét cạn, quy hoạch động, quay lui, nhánh cận 
+cây khung nhỏ nhất: 
+    + cây: vô hướng, liên thông.
+    + cây khung( đi qua tất cả các điểm đồ thị)
+    +cây khung nhỏ nhất( tổng độ dài các cạnh nhỏ nhất)
